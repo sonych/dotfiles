@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/sonych/Dev/wg/tms/tmscore/src/.meta'
+let g:netrw_dirhist_2='/Users/sonych/Dev/tdukr/v0.2/tdukr/tdukr'
+let g:netrw_dirhist_3='/Users/sonych/Dev/wg/League/wgleague.net/vagrant'
+let g:netrw_dirhist_4='/Users/sonych/.vim'
