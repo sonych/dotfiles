@@ -1,0 +1,24 @@
+[user]
+	name = Mykolai Sonych
+	email = sonychnikolai@gmail.com
+[core]
+        ignorecase = true
+[color]
+	ui = true
+[push]
+    	default = nothing
+[alias]
+    	undo = reset --hard
+   	s = status
+    	c = commit -m
+   	br = branch
+    	pso = push origin
+	plo = pull origin
+	co = checkout
+	l = log --oneline --graph
+[filter "media"]
+	clean = git media clean %f
+	smudge = git media smudge %f
+	required = true
+[http]
+	sslVerify = false
